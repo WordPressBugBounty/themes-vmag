@@ -1,0 +1,315 @@
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+    border-color: #ccc #bbb #aaa;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), inset 0 15px 17px rgba(255, 255, 255, 0.8), inset 0 -5px 12px rgba(0, 0, 0, 0.02);
+}
+
+.main-navigation ul ul li {} .main-navigation li:focus > a,
+.main-navigation li.focus > a {} .main-navigation ul ul:focus > a,
+.main-navigation ul ul .focus > a {} .main-navigation ul ul a:focus,
+.main-navigation ul ul a.focus {} .main-navigation ul li:focus > ul,
+.main-navigation ul li.focus > ul {
+    left: auto;
+}
+
+.main-navigation ul ul li:focus > ul {
+    left: 100%;
+}
+
+.vmag-top-header .top-navigation .menu a:focus {
+    color: #e5e5e5;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+}
+
+.vmag-top-header .top-navigation ul li:focus > ul {
+    opacity: 1;
+    visibility: visible;
+    z-index: 9;
+}
+
+.vmag-top-header .top-navigation ul li:focus ul {
+    left: 0;
+    opacity: 1;
+    top: 32px;
+    visibility: visible;
+    z-index: 9;
+}
+
+.vmag-top-header .top-navigation ul ul li:focus > ul{
+    display: block;
+}
+
+.site-header .main-navigation li a:focus:before {
+    content: '';
+    border-top:4px solid #4db2ec;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+
+.site-header .main-navigation .vmag-search-form-primary.search-in .search-form .search-submit:focus {
+    background: #4DB2EC;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;       
+}
+
+.site-header .main-navigation ul li:focus-within > ul {
+    opacity: 1;
+    top: 100%;
+    visibility: visible;
+    z-index: 9;
+}
+
+.site-header .main-navigation ul ul li:focus > ul{
+    display: block;
+}
+
+.site-header .main-navigation ul li ul li a:focus {
+    color: #4DB2EC;
+    border-color:#4DB2EC;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;  
+}
+
+.site-header .main-navigation li ul a:focus::before {
+    border: none;
+}
+
+.site-content .vmag-newsticker-wrapper ul li a:focus {
+    color: #4DB2EC;
+     transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.widget.vmag_category_posts_slider .lSSlideOuter ul.lSPager.lSpg > li a:focus {
+    background: #428bca;
+}
+
+.widget .single-post .post-meta a:focus {
+    color: #4DB2EC;
+}
+
+.block-header .view-all a:focus {
+    color: #4DB2EC;
+     transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.widget h4.block-title a:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.widget_tag_cloud .tagcloud a:focus,
+.tags-links a:focus {
+    background: #4DB2EC;
+    color: #fff;
+    border: 1px solid #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.lSAction .lSPrev:focus,
+.lSAction .lSNext:focus {
+    background: rgba(255,255,255,1);
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.widget .post-tags-links a:focus {
+    background: #000;
+}
+
+.footer-widgets-wrapper .widget_categories li a:focus,
+.footer-widgets-wrapper .widget_nav_menu li a:focus,
+.footer-widgets-wrapper .widget .single-post h3 a:focus,
+.footer-widgets-wrapper .widget .single-post .post-meta .post-author a:focus {
+    color: #4DB2EC;
+}
+
+.site-footer a:focus {
+    color: #4DB2EC;
+}
+
+#primary .entry-header span a:focus {
+    color: #4DB2EC;
+}
+
+#primary .entry-footer a:focus {
+    color: #777777;
+}
+
+#secondary .widget_search input.search-submit:focus {
+    background: #0497eb;
+}
+
+.widget_recent_entries li a:focus,
+.widget_archive li a:focus,
+.widget_categories li a:focus,
+.widget_meta li a:focus,
+.widget_recent_comments li a:focus,
+.vmag-footer-widget .menu li a:focus {
+    color: #4DB2EC;
+}
+
+h2.entry-title a:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+#primary .vmag-author-metabox .author-desc-wrapper a.author-title:focus,
+#primary .vmag-author-metabox .author-desc-wrapper a:focus {
+    color: #4DB2EC;
+}
+
+.comments-area .comment-metadata a:focus {
+    color: #4DB2EC;
+}
+
+.comments-area .reply a:focus {
+    background: #0497EB;
+}
+
+.vmag_categories_tabbed ul li.active a,
+.vmag_categories_tabbed ul li:focus a{
+    background: #4DB2EC;
+}
+
+.vmag_categories_tabbed ul li:focus a {
+    color: #fff;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.vmag_authors_list .single-user:focus .user-name {
+    opacity: 1;
+    visibility: visible;
+}
+
+h3 a:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.post-meta a:focus,
+.entry-meta a:focus,
+#primary .entry-footer a:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.post-tags-links a:focus {
+    background: #000;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+#vmag-breadcrumbs span a:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.archive .vmag-archive-more:focus,
+.search .vmag-archive-more:focus,
+.blog .vmag-archive-more:focus {
+    background: #4DB2EC;
+    border: 1px solid #4DB2EC;
+    color: #fff;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.entry-meta .cat-links:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.pagination .nav-links span:focus,
+.pagination .nav-links a:focus {
+    color: #fff;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    background: #4DB2EC;
+    border-color: #4DB2EC;
+}
+
+.post-navigation .nav-links .nav-previous a:focus,
+.post-navigation .nav-links .nav-next a:focus {
+    color: #4DB2EC;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+}
+
+.thumb-zoom:focus .image-overlay::before,
+.thumb-zoom:focus .image-overlay::after {
+    opacity: 1;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+}
+
+.thumb-zoom:focus img {
+    display: inline-block;
+    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+}
+
+span.format-icon:focus {
+    background: #4DB2EC;
+}
+
+.post-thumb a:focus img {
+    display: inline-block;
+    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+}
+
+#scroll-up:focus {
+  background: rgba(77,178,236,1) none repeat scroll 0 0;
+  color: #fff;
+  transition: all 0.7s ease-in-out 0s;
+}
+
+.archive .tags-links a:focus,
+.single-post .tags-links a:focus,
+.search .tags-links a:focus,
+.blog .tags-links a:focus {
+    background: none;
+    border: none;
+    transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    color: #4DB2EC;
+}
+
+.widget_calendar .calendar_wrap #prev:focus,
+.widget_calendar .calendar_wrap #next:focus {
+	background: #5ba9d3;
+	transition: all ease 0.3s;
+	-webkit-transition: all ease 0.3s;
+	-ms-transition: all ease 0.3s;
+	cursor: pointer;
+}
+
+.widget_rss ul li a.rsswidget:focus {
+	color: #4db2ec;
+	transition: all ease 0.3s;
+	-webkit-transition: all ease 0.3s;
+	-ms-transition: all ease 0.3s;
+}
+
+.widget_search input.search-submit:focus {
+	transition: all ease 0.3s;
+	-webkit-transition: all ease 0.3s;
+	-ms-transition: all ease 0.3s;
+	background: none;
+	color: #4db2ec;
+}

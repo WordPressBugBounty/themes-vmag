@@ -1,0 +1,11 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_vmag">
+    <key name="vmag_bread_home_txt" />
+    <key name="vmag_ticker_caption" />
+    <key name="vmag_archive_read_more_text" />
+    <key name="vmag_related_posts_title" />
+    <key name="vmag_copyright_text" />
+</key>
+</admin-texts>
+</wpml-config>

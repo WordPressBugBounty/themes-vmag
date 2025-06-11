@@ -1,0 +1,1582 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-09-10 05:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:20 404.php:22
+msgid "4"
+msgstr ""
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:20
+msgid "&copy; 2016 VMag"
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:71
+msgid "Footer Menu"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:56 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:131 inc/welcome/sections/free_vs_pro.php:77
+#: inc/welcome/sections/free_vs_pro.php:101
+#: inc/welcome/sections/free_vs_pro.php:113
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "%"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:148
+msgid ", "
+msgstr ""
+
+#: inc/vmag-breadcrumbs.php:11 inc/assets/customizer/general-panel.php:124
+msgid "Home"
+msgstr ""
+
+#: inc/vmag-breadcrumbs.php:133
+msgid "Page"
+msgstr ""
+
+#: inc/vmag-functions.php:23 inc/widgets/vmag-widget-fields.php:165
+msgid "Upload"
+msgstr ""
+
+#: inc/vmag-functions.php:24 inc/widgets/vmag-widget-fields.php:182
+msgid "Remove"
+msgstr ""
+
+#: inc/vmag-functions.php:84 inc/assets/customizer/header-panel.php:157
+msgid "Recent News"
+msgstr ""
+
+#: inc/vmag-functions.php:123
+msgid "Select Category"
+msgstr ""
+
+#: inc/vmag-functions.php:132
+msgid "From Latest Posts"
+msgstr ""
+
+#: inc/vmag-functions.php:133
+msgid "From Selected Category"
+msgstr ""
+
+#: inc/vmag-functions.php:140
+msgid "Select No.of Column"
+msgstr ""
+
+#: inc/vmag-functions.php:141
+msgid "1 Column"
+msgstr ""
+
+#: inc/vmag-functions.php:142
+msgid "2 Columns"
+msgstr ""
+
+#: inc/vmag-functions.php:143
+msgid "3 Columns"
+msgstr ""
+
+#: inc/vmag-functions.php:144
+msgid "4 Columns"
+msgstr ""
+
+#: inc/vmag-functions.php:308 inc/assets/customizer/design-panel.php:269
+msgid "Related Articles"
+msgstr ""
+
+#: inc/vmag-functions.php:458
+msgid "View a random post"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:16 inc/vmag-widget-functions.php:26
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:24
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:34
+msgid "Featured Slider Area"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:36
+msgid ""
+"This area is for showing widgets in the home page and it is best to display "
+"widget VMag: Featured Slider"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:44
+msgid "Home Page Blocks Area"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:46
+msgid ""
+"This area is for showing widgets in the home page and it is best to display "
+"widgets VMag: Block Posts (Style 1), VMag: Block Post (Style 2), VMag: Block "
+"Post (List), VMag: Block Post (Style 3), Category Posts (Slider), VMag: "
+"Category Post (List) "
+msgstr ""
+
+#: inc/vmag-widget-functions.php:54
+msgid "Home Page Sidebar Area"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:56
+msgid "This area is for showing widgets related to home page sidebar."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:64
+msgid "Home Page Fullwidth Area ( First )"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:66
+msgid ""
+"This area is for showing widgets in the home page and it is best to display "
+"widget VMag: Block Post(carousel)"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:74
+msgid "Home Page Fullwidth Area ( Second )"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:76
+msgid ""
+"This area is for showing widgets in the home page and it is best to display "
+"widget VMag: Block Post(Column)"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:84
+msgid "Header Ads Area"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:86
+msgid "This area is for showing widget beside site logo."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:94
+msgid "Footer Widget Column First"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:96
+msgid "This area is for showing widget in first column at Footer widget area."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:104
+msgid "Footer Widget Column Second"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:106
+msgid "This area is for showing widget in second column at Footer widget area."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:114
+msgid "Footer Widget Column Third"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:116
+msgid "This area is for showing widget in third column at Footer widget area."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:124
+msgid "Footer Widget Column Forth"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:126
+msgid "This area is for showing widget in forth column at Footer widget area."
+msgstr ""
+
+#: inc/vmag-widget-functions.php:186
+msgid "Subscriber"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:187
+msgid "Contributor"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:188
+msgid "Author"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:189
+msgid "Editor"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:190
+msgid "Administrator"
+msgstr ""
+
+#: inc/vmag-widget-functions.php:202
+msgid "View all"
+msgstr ""
+
+#: template-parts/content-archive.php:46 template-parts/content-search.php:46
+#: template-parts/content.php:46 inc/assets/customizer/design-panel.php:158
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:40
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:31 inc/assets/customizer/general-panel.php:76
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:32 inc/assets/customizer/general-panel.php:77
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:44 inc/assets/customizer/design-panel.php:56
+#: inc/assets/customizer/design-panel.php:232
+#: inc/assets/customizer/design-panel.php:257
+#: inc/assets/customizer/general-panel.php:112
+#: inc/assets/customizer/header-panel.php:57
+#: inc/assets/customizer/header-panel.php:82
+#: inc/assets/customizer/header-panel.php:107
+#: inc/assets/customizer/header-panel.php:145
+msgid "Show"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:45 inc/assets/customizer/design-panel.php:57
+#: inc/assets/customizer/design-panel.php:233
+#: inc/assets/customizer/design-panel.php:258
+#: inc/assets/customizer/general-panel.php:113
+#: inc/assets/customizer/header-panel.php:58
+#: inc/assets/customizer/header-panel.php:83
+#: inc/assets/customizer/header-panel.php:108
+#: inc/assets/customizer/header-panel.php:146
+msgid "Hide"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:57 inc/assets/customizer/design-panel.php:81
+msgid "Enable"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:58 inc/assets/customizer/design-panel.php:82
+msgid "Disable"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:86 inc/assets/customizer/design-panel.php:300
+msgid "Related Posts by Category"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:87 inc/assets/customizer/design-panel.php:301
+msgid "Related Posts by Tags"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:99 inc/assets/customizer/design-panel.php:377
+msgid "One Column"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:100 inc/assets/customizer/design-panel.php:378
+msgid "Two Columns"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:101 inc/assets/customizer/design-panel.php:379
+msgid "Three Columns"
+msgstr ""
+
+#: inc/assets/vmag-sanitize.php:102 inc/assets/customizer/design-panel.php:380
+msgid "Four Columns"
+msgstr ""
+
+#. $id
+#: inc/metabox/vmag-page-metabox.php:14
+msgid "Page Options"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:26 inc/metabox/vmag-post-metabox.php:26
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:31 inc/metabox/vmag-post-metabox.php:31
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:36 inc/metabox/vmag-post-metabox.php:36
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:41 inc/metabox/vmag-post-metabox.php:41
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:47 inc/metabox/vmag-post-metabox.php:47
+msgid "No sidebar Centered"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:63 inc/metabox/vmag-post-metabox.php:63
+msgid "Information"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:64 inc/metabox/vmag-post-metabox.php:64
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:69 inc/metabox/vmag-post-metabox.php:69
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:72 inc/metabox/vmag-post-metabox.php:72
+msgid "This option allows to set a specific layout for this post."
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:79 inc/metabox/vmag-post-metabox.php:79
+#: inc/assets/customizer/design-panel.php:116
+#: inc/assets/customizer/design-panel.php:201
+#: inc/assets/customizer/design-panel.php:335
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/metabox/vmag-page-metabox.php:80 inc/metabox/vmag-post-metabox.php:80
+msgid "Choose between available layouts."
+msgstr ""
+
+#. $id
+#: inc/metabox/vmag-post-metabox.php:14
+msgid "Post Options"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:50
+msgid "Access Demo Importer"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:54
+msgid ""
+"Access Demo Importer adds the feature to Import the Demo Conent with a "
+"single click."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:69
+msgid "Social booster for your site! A FREE plugin with premium features."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:76
+msgid ""
+"Connect your website visitors to your social community in an easy way! Link "
+"up your social media profiles via great looking social buttons."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:83
+msgid "Showcase your Tweets (Twitter Feeds) right on the site."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:90
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:101
+msgid ""
+"WOO Product Grid/List Design- Responsive Products Showcase Extension for "
+"Woocommerce"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:102
+msgid "1.0.3"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:109
+msgid ""
+"Design your WooCommerce shop like never before! A complete package for your "
+"Woo shop designer."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:114
+msgid ""
+"Woo Badge Designer - WooCommerce Product Badge Designer WordPress Plugin"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:115
+msgid "1.0.1"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:122
+msgid ""
+"Add some attractive badges on your product listing and single page and "
+"increase your sales upto 55%."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:127
+msgid ""
+"WP Admin White Label Login - WordPress Plugin For Advanced Customizable "
+"Login page"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:128
+msgid "1.3.5"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:135
+msgid ""
+"Make your default wp-admin screen look like a non WP one! Choose from some "
+"great ready to use template designs and many features to boost your "
+"WordPress backend."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:140
+msgid "Easy Side Tab Pro - Responsive Floating Tab Plugin For Wordpress"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:141
+msgid "1.0.6"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:148
+msgid ""
+"Place some great designed floating tabs on your site for quick links. "
+"Increase accessibility of your site."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:153
+msgid "Everest Timeline - Responsive WordPress Timeline Plugin"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:154
+msgid "2.0.2"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:161
+msgid "A perfect timeline maker! If you're planning to make one go for it!"
+msgstr ""
+
+#. Name of the theme
+#: inc/welcome/welcome-config.php:169
+msgid "VMag"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:170
+msgid ""
+"VMag - is a complete Free WordPress theme for online magazines, newspapers "
+"and professional blogs. It is completely built on Customizer tool, which "
+"allows you to customize most of the theme settings easily with live previews."
+" It is fully widgetized theme so as to let users manage the website using "
+"the easy to use widgets. Bold typography, large images and beautiful colors "
+"are the main features, which make it ideal for magazines and newspapers. It "
+"is a flexible and powerful theme, which provides a lot of customization "
+"possibilities to the users. The whole theme structure is built using clean "
+"code, making the theme secure and SEO friendly. It is a fully responsive "
+"free theme for WordPress. Demo: http://accesspressthemes.com/theme-demos/?"
+"theme=vmag Support forum: https://accesspressthemes."
+"com/support/forum/themes/free-themes/vmag/"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:173
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:174
+msgid "Deactivate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:175 inc/welcome/welcome-config.php:192
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:178
+msgid "Step 1 - Documentation"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:179
+msgid ""
+"Read the Documentation and follow the instructions to manage the site , it "
+"helps you to set up the theme more easily and quickly. The Documentation is "
+"very easy with its pictorial  and well managed listed instructions. "
+msgstr ""
+
+#: inc/welcome/welcome-config.php:181
+msgid "Read Now"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:182
+msgid "Step 2 - Customizer Panel"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:183
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:186 inc/welcome/welcome-config.php:202
+msgid "Premium Plugins"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:187 inc/welcome/welcome-config.php:203
+msgid "Free Plugins"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:193
+msgid "Activated"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:194
+msgid "Installing Demo"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:195
+msgid "Demo Installed"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:196
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:199
+msgid ""
+"All these required plugins will be installed and activated while importing "
+"demo. Or you can choose to install and activate them manually. If you're not "
+"importing any of the demos, you must install and activate these plugins "
+"manually."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:200
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:201
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/welcome/welcome.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: inc/welcome/welcome.php:36
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/welcome/welcome.php:37
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/welcome/welcome.php:38
+msgid "Import Demo"
+msgstr ""
+
+#: inc/welcome/welcome.php:39
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/welcome/welcome.php:40
+msgid "ChangeLog"
+msgstr ""
+
+#: inc/welcome/welcome.php:41
+msgid "Support"
+msgstr ""
+
+#: inc/welcome/welcome.php:116
+msgid "Welcome!"
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/welcome.php:117
+#, php-format
+msgid ""
+"Thank you for installing %1$s. It is now installed and ready to use. Here "
+"are some useful links to get started: "
+msgstr ""
+
+#: inc/welcome/welcome.php:125
+msgid "Starter site demos!"
+msgstr ""
+
+#: inc/welcome/welcome.php:131
+msgid "ready to use starter sites."
+msgstr ""
+
+#: inc/welcome/welcome.php:136
+msgid ""
+"You can also reach-out to us for any support during the theme setup and use."
+msgstr ""
+
+#: inc/welcome/welcome.php:137
+msgid "Contact Support"
+msgstr ""
+
+#: inc/welcome/welcome.php:145 inc/welcome/sections/support.php:31
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:148
+msgid "Full Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:152
+msgid "Return to your Dashboard"
+msgstr ""
+
+#. %s : Theme Name and Version
+#: inc/welcome/welcome.php:215
+msgid "Get connected, share your opinions and more via our social community: "
+msgstr ""
+
+#: inc/welcome/welcome.php:217
+msgid " -to receive updates, offers and more."
+msgstr ""
+
+#: inc/welcome/welcome.php:219
+msgid " -for tutorials, videos and more."
+msgstr ""
+
+#: inc/welcome/welcome.php:221
+msgid " -to stay updated. "
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/welcome.php:225
+#, php-format
+msgid "Are you enjoying %1$s? We would love to hear your feedback!"
+msgstr ""
+
+#: inc/welcome/welcome.php:364
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/welcome/welcome.php:374
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: inc/welcome/welcome.php:466 inc/welcome/welcome.php:486
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#: inc/widgets/vmag-authors.php:23
+msgid "This widget for showing authors which have selected roles."
+msgstr ""
+
+#: inc/widgets/vmag-authors.php:25
+msgid "VMag: Authors"
+msgstr ""
+
+#: inc/widgets/vmag-authors.php:40
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/vmag-authors.php:46
+msgid "Select the user roles you would like to show"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:23 inc/widgets/vmag-block-column.php:23
+#: inc/widgets/vmag-block-list.php:23 inc/widgets/vmag-block-style1.php:23
+#: inc/widgets/vmag-block-style2.php:23 inc/widgets/vmag-block-style3.php:23
+msgid "This widget for showing posts from selected category or latest."
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:25
+msgid "VMag: Block Posts(Carousel)"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:40
+msgid "Block Posts (carousel) layout"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:47 inc/widgets/vmag-block-column.php:48
+#: inc/widgets/vmag-block-list.php:47 inc/widgets/vmag-block-style1.php:48
+#: inc/widgets/vmag-block-style2.php:47 inc/widgets/vmag-block-style3.php:47
+#: inc/widgets/vmag-category-list.php:47
+#: inc/widgets/vmag-category-slider.php:47
+msgid "Block Title"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:53 inc/widgets/vmag-block-column.php:54
+#: inc/widgets/vmag-block-list.php:53 inc/widgets/vmag-block-style1.php:54
+#: inc/widgets/vmag-block-style2.php:53 inc/widgets/vmag-block-style3.php:53
+#: inc/widgets/vmag-category-list.php:53
+#: inc/widgets/vmag-category-slider.php:53
+msgid "Block Title Url"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:59 inc/widgets/vmag-block-column.php:60
+#: inc/widgets/vmag-block-list.php:59 inc/widgets/vmag-block-style1.php:60
+#: inc/widgets/vmag-block-style2.php:67 inc/widgets/vmag-block-style3.php:67
+#: inc/widgets/vmag-category-list.php:59
+#: inc/widgets/vmag-category-slider.php:59
+msgid "No. of Posts"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:66 inc/widgets/vmag-block-column.php:67
+#: inc/widgets/vmag-block-list.php:66 inc/widgets/vmag-block-style1.php:67
+#: inc/widgets/vmag-block-style2.php:74 inc/widgets/vmag-block-style3.php:74
+msgid "Block posts: "
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:74 inc/widgets/vmag-block-column.php:75
+#: inc/widgets/vmag-block-list.php:74 inc/widgets/vmag-block-style1.php:75
+#: inc/widgets/vmag-block-style2.php:82 inc/widgets/vmag-block-style3.php:82
+msgid "Category for Block Posts"
+msgstr ""
+
+#: inc/widgets/vmag-block-carousel.php:82 inc/widgets/vmag-block-column.php:83
+#: inc/widgets/vmag-block-list.php:82 inc/widgets/vmag-block-style1.php:83
+#: inc/widgets/vmag-block-style2.php:90 inc/widgets/vmag-block-style3.php:90
+msgid "View all Icon"
+msgstr ""
+
+#: inc/widgets/vmag-block-column.php:25
+msgid "VMag: Block Posts(Column)"
+msgstr ""
+
+#: inc/widgets/vmag-block-column.php:41 inc/widgets/vmag-block-style1.php:41
+msgid "Block Posts (Style 1) layout"
+msgstr ""
+
+#: inc/widgets/vmag-block-list.php:25
+msgid "VMag: Block Posts(List)"
+msgstr ""
+
+#: inc/widgets/vmag-block-list.php:40
+msgid "Block Posts (List) layout"
+msgstr ""
+
+#: inc/widgets/vmag-block-style1.php:25
+msgid "VMag: Block Posts(Style 1)"
+msgstr ""
+
+#: inc/widgets/vmag-block-style2.php:25
+msgid "VMag: Block Posts(Style2)"
+msgstr ""
+
+#: inc/widgets/vmag-block-style2.php:40
+msgid "Block Posts (Style2) layout"
+msgstr ""
+
+#: inc/widgets/vmag-block-style2.php:59 inc/widgets/vmag-block-style3.php:59
+msgid "No. of column"
+msgstr ""
+
+#: inc/widgets/vmag-block-style3.php:25
+msgid "VMag: Block Posts(Style3)"
+msgstr ""
+
+#: inc/widgets/vmag-block-style3.php:40
+msgid "Block Posts (Style3) layout"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:23
+msgid "This widget for showing category post in tabbed."
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:25
+msgid "VMag: Categories Tabbed"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:40
+msgid "Category Tabbed layout"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:47
+msgid "First Tab"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:53
+#: inc/widgets/vmag-categories-tabbed.php:73
+#: inc/widgets/vmag-categories-tabbed.php:93
+msgid "Tab Title"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:59
+msgid "Select Category for First Tab"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:67
+msgid "Second Tab"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:79
+msgid "Select Category for Second Tab"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:87
+msgid "Third Tab"
+msgstr ""
+
+#: inc/widgets/vmag-categories-tabbed.php:99
+msgid "Select Category for Third Tab"
+msgstr ""
+
+#: inc/widgets/vmag-category-list.php:23
+msgid "This widget for showing posts from selected category as list."
+msgstr ""
+
+#: inc/widgets/vmag-category-list.php:25
+msgid "VMag: Category Posts(List)"
+msgstr ""
+
+#: inc/widgets/vmag-category-list.php:40
+msgid "Category Posts (List) layout"
+msgstr ""
+
+#: inc/widgets/vmag-category-list.php:66
+msgid "Select Category for Lists"
+msgstr ""
+
+#: inc/widgets/vmag-category-slider.php:23
+msgid "This widget for showing posts from selected category as slider."
+msgstr ""
+
+#: inc/widgets/vmag-category-slider.php:25
+msgid "VMag: Category Posts(Slider)"
+msgstr ""
+
+#: inc/widgets/vmag-category-slider.php:40
+msgid "Category Posts (Slider) layout"
+msgstr ""
+
+#: inc/widgets/vmag-category-slider.php:66
+msgid "Select Category for Slider"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:22
+msgid "VMag: Featured Slider"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:23
+msgid "This widget for showing slider and featured posts in slider section."
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:38
+msgid "Slider Section"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:44
+msgid "No of slides"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:51
+msgid "Slider posts: "
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:59
+msgid "Category for Slider"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:67
+msgid "Featured Posts Section"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:73
+msgid "Featured Section Option"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:74
+msgid "Check to disable featured posts section"
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:80
+msgid "Featured posts: "
+msgstr ""
+
+#: inc/widgets/vmag-featured-slider.php:88
+msgid "Category for Featured Posts"
+msgstr ""
+
+#: inc/widgets/vmag-leaderboard-ad.php:23
+msgid "This widget for showing ads in size of leaderboard"
+msgstr ""
+
+#: inc/widgets/vmag-leaderboard-ad.php:25
+msgid "VMag: Leaderboard Ads (728x90)"
+msgstr ""
+
+#: inc/widgets/vmag-leaderboard-ad.php:38 inc/widgets/vmag-medium-ad.php:38
+msgid "Banner Title"
+msgstr ""
+
+#: inc/widgets/vmag-leaderboard-ad.php:44 inc/widgets/vmag-medium-ad.php:44
+msgid "Banner Image"
+msgstr ""
+
+#: inc/widgets/vmag-leaderboard-ad.php:50 inc/widgets/vmag-medium-ad.php:50
+msgid "Banner Url"
+msgstr ""
+
+#: inc/widgets/vmag-medium-ad.php:23
+msgid "This widget for showing ads in size of medium rectangle"
+msgstr ""
+
+#: inc/widgets/vmag-medium-ad.php:25
+msgid "VMag: Medium Rectangle Ads (300x250)"
+msgstr ""
+
+#: inc/widgets/vmag-widget-fields.php:141
+msgid "Widget Layout"
+msgstr ""
+
+#: inc/widgets/vmag-widget-fields.php:161
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/vmag-widget-fields.php:169
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/vmag-widget-fields.php:191
+msgid "View File"
+msgstr ""
+
+#: inc/assets/customizer/customizer.php:32
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/assets/customizer/customizer.php:33
+msgid "Compare"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:23
+msgid "Design Settings"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:33
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:52
+msgid "Tags in Home Page"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:53
+msgid "Enable/Disable tags in homepge"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:77
+msgid "Animation Option"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:78
+msgid "Enable/Disable wow animation in widget section at homepage."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:95
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:117
+msgid ""
+"Choose between available layouts for all archives, categories, search page "
+"etc."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:143
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:144
+msgid "Choose number of words in archive pages."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:167
+msgid "Read More Button"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:180
+msgid "Post Settings"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:202
+msgid "Choose between available layouts for single post."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:228
+msgid "Author Box."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:229
+msgid "Enable/Disable author box information at single post."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:253
+msgid "Related Posts"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:254
+msgid "Enable/Disable related posts section in single post page."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:278
+msgid "Section Title"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:296
+msgid "Types of Related Posts"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:297
+msgid "Option to display related posts from category or tags."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:314
+msgid "Page Settings"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:336
+msgid "Choose between available layouts for all pages."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:355
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:373
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:374
+msgid "Option to set number of columns in footer widget area."
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:390
+msgid "2016 VMag"
+msgstr ""
+
+#: inc/assets/customizer/design-panel.php:400
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:32
+msgid "General Settings"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:41
+#: inc/welcome/sections/getting_started.php:36
+msgid "Template Color"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:54
+#: inc/assets/customizer/general-panel.php:72
+msgid "Website Layout"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:73
+msgid "Option to change the website layout."
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:89
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:108
+msgid "Breadcrumbs Option"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:109
+msgid "Enable/Disable breadcrumbs in inner pages"
+msgstr ""
+
+#: inc/assets/customizer/general-panel.php:133
+msgid "Home Text"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:24
+msgid "Header Settings"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:34
+msgid "Header Options"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:53
+msgid "Date in header"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:54
+msgid "Enable/Disable date in top header"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:78
+msgid "Search Icon"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:79
+msgid "Enable/Disable search icon in primary menu"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:103
+msgid "Random Post"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:104
+msgid "Enable/Disable random post icon in primary menu"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:122
+#: inc/assets/customizer/header-panel.php:141
+msgid "News Ticker"
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:142
+msgid "Enable/Disable news ticker "
+msgstr ""
+
+#: inc/assets/customizer/header-panel.php:166
+msgid "Section Menu Text"
+msgstr ""
+
+#: inc/welcome/sections/actions_required.php:58
+#: inc/welcome/sections/actions_required.php:122
+#: inc/welcome/sections/recommended_plugins.php:43
+#: inc/welcome/sections/recommended_plugins.php:149
+msgid "Version "
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:9
+msgid "Use in as many website as you need"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFE TIME"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:14
+msgid "Keep upto date"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:19
+msgid "Features"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:20
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:21
+msgid "Pro"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:25
+msgid "Demo Import."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:26
+msgid ""
+"Tired of configuring site from scratch. Installation of demo is just one "
+"click away."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:37
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:38
+msgid "Displays fine in device with screen sizes."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:49
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:50
+msgid "Create the site in your own custom language."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:61
+msgid "Multiple Color Scheme"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:62
+msgid "Choose any theme skin color you like."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:73
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:74
+msgid ""
+"Choose any one header layout for your site from the available 3 layouts."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:80
+#: inc/welcome/sections/free_vs_pro.php:104
+#: inc/welcome/sections/free_vs_pro.php:116
+msgid "3"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:85
+msgid "Added News Ticker opts"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:86
+msgid "Customize Ticker for your site as per your requirement."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:97
+msgid "Blog Archive Layouts"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:98
+msgid "Select blog layout for the website from the multiple layout option."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:109
+msgid "Single Post Layouts"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:110
+msgid ""
+"Set the layout for the single post from the available multiple post layout."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:121
+msgid "Inbuilt Shortcodes"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:122
+msgid "Build feature rich pages using beautiful inbuilt shortcodes."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:128
+#: inc/welcome/sections/free_vs_pro.php:137
+msgid "13"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:133
+msgid "Inbuilt Widgets"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:134
+msgid "Create a feature rich page in an instant using the inbuilt widgets."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:140
+msgid "16"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:145
+msgid "Fully WooCommerce Compatible"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:146
+msgid "Yes - Stop your WooCommerce theme search here."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:157
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:158
+msgid "Google will love it."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:169
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:170
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:173
+msgid "Buy Now"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:16
+msgid "HomePage Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:21
+msgid "Section Reorder"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:26
+msgid "Menu Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:31
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:41
+msgid "Footer Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:47
+msgid "Layout Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:61
+msgid "Step 1 - Checkout starter sites (Demos) "
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/sections/getting_started.php:62
+#, php-format
+msgid ""
+"%1$s now comes with a sites library with 6 starter sites to pick from. You "
+"can check theme out and decide which one to start with. However you can "
+"decide not to use any one of them and start building your site from scratch."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:63
+msgid "See Demos"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:69
+msgid "Step 2 - Import demo of your choice "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:70
+msgid ""
+"Once you chose one of the available starter sites (demos) - you can install "
+"it. Please be noted that once you install the demo, it will install all the "
+"required plugins too. It is not recommended to install demo on your existing "
+"content. A fresh WordPress installation would be required to install demo to "
+"replicate demo content exactly. "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:71
+msgid "Install Demo"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:74
+msgid "Step 3 - Start editing the demo content and making your site! "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:75
+msgid ""
+"Once you install the demo, you can start editing the content, replacing "
+"images etc."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:78
+msgid "Step 4 - You 're done! "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:79
+msgid "Go live with the website and get some rest"
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:80
+msgid "View Detail"
+msgstr ""
+
+#: inc/welcome/sections/support.php:4
+msgid "Create Support Tickets"
+msgstr ""
+
+#: inc/welcome/sections/support.php:5
+msgid ""
+"If you're having any issues with the theme, feel free to create a ticket in "
+"our support forum. We reply your ticket very soon!"
+msgstr ""
+
+#: inc/welcome/sections/support.php:6
+msgid "Create Ticket"
+msgstr ""
+
+#: inc/welcome/sections/support.php:12
+msgid "Online Chat"
+msgstr ""
+
+#: inc/welcome/sections/support.php:13
+msgid ""
+"If you need an immediate solution, you can try our online chat support too. "
+"However our online time is limited and as below"
+msgstr ""
+
+#: inc/welcome/sections/support.php:14
+msgid "Mon - Fri"
+msgstr ""
+
+#: inc/welcome/sections/support.php:15
+msgid "10AM - 5PM "
+msgstr ""
+
+#: inc/welcome/sections/support.php:16
+msgid "Kathmandu Time (GMT + 5:45)"
+msgstr ""
+
+#: inc/welcome/sections/support.php:17
+msgid "Start Online Chat"
+msgstr ""
+
+#: inc/welcome/sections/support.php:23
+msgid "Email to support team"
+msgstr ""
+
+#: inc/welcome/sections/support.php:24
+msgid ""
+"You can also email to our support team directly at : "
+"support@accesspressthemes.com."
+msgstr ""
+
+#: inc/welcome/sections/support.php:32
+msgid ""
+"Checkout our documentation and get more details on how to setup / configure "
+"theme step by step."
+msgstr ""
+
+#: inc/welcome/sections/support.php:33
+msgid "View Documentation"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"VMag is a complete Free WordPress theme for online magazines, newspapers and "
+"professional blogs. It is completely built on Customizer tool, which allows "
+"you to customize most of the theme settings easily with live previews. It is "
+"fully widgetized theme so as to let users manage the website using the easy "
+"to use widgets. Bold typography, large images and beautiful colors are the "
+"main features, which make it ideal for magazines and newspapers. It is a "
+"flexible and powerful theme, which provides a lot of customization "
+"possibilities to the users. The whole theme structure is built using clean "
+"code, making the theme secure and SEO friendly. It is a fully responsive "
+"free theme for WordPress. Demo: http://accesspressthemes.com/theme-demos/?"
+"theme=vmag Support forum: https://accesspressthemes."
+"com/support/forum/themes/free-themes/vmag/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/vmag"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""
